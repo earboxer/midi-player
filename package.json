@@ -1,0 +1,19 @@
+{
+  "name": "midi-player",
+  "version": "1.0.0",
+  "description": "A Javascript MIDI Player",
+  "main": "make.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rism-ch/midi-player.git"
+  },
+  "author": "Laurent Pugin <lxpugin@gmail.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rism-ch/midi-player/issues"
+  },
+  "homepage": "https://github.com/rism-ch/midi-player#readme"
+}
